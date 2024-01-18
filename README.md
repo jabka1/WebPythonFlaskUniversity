@@ -1,7 +1,5 @@
 # WebPythonFlaskUniversity
 
-## Project Title: Flask-App-Template
-
 ### Overview:
 These are university laboratory works on Python web programming using the Flask framework. The project encompasses essential features such as user authentication, JWT token generation, database models, RESTful API endpoints, and various views for efficiently managing tasks, posts, and user accounts.
 
